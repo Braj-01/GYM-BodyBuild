@@ -20,7 +20,7 @@
 - 🎞️ Smooth animations using Framer Motion
 - 🖼️ Interactive sliders with React Slick
 - 📱 Fully responsive layout
-- 👤 Dedicated sections for trainers, programs, and membership plans
+- 👤 Dedicated sections for trainers, programs, blog, pricing
 
 ---
 
@@ -40,9 +40,9 @@
 
 > Replace the links below with actual images or uploaded GitHub image URLs.
 
-![Homepage](https://your-image-link.com/homepage.png)
-![Programs Section](https://your-image-link.com/programs.png)
-![Trainers Section](https://your-image-link.com/trainers.png)
+![Homepage](https://github.com/Braj-01/GYM-BodyBuild/blob/main/src/assets/Screenshot%202025-05-26%20071943.png
+)
+![Programs Section](https://github.com/Braj-01/GYM-BodyBuild/blob/main/src/assets/Screenshot%202025-05-26%20072050.png)
 
 ---
 
