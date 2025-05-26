@@ -38,8 +38,6 @@
 
 ## 📸 Screenshots
 
-> Replace the links below with actual images or uploaded GitHub image URLs.
-
 ![Homepage](https://github.com/Braj-01/GYM-BodyBuild/blob/main/src/assets/Screenshot%202025-05-26%20071943.png
 )
 ![Programs Section](https://github.com/Braj-01/GYM-BodyBuild/blob/main/src/assets/Screenshot%202025-05-26%20072050.png)
@@ -51,8 +49,8 @@
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/body-build.git
-cd body-build
+git clone https://github.com/Braj-01/GYM-BodyBuild.git
+cd GYM-BodyBuild
 npm install
 npm run dev
 ```
